@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Minimalist Tech Workspace Photography",
+    "price": 3.99,
+    "tags": [
+      "photograph",
+      "technology",
+      "interior"
+    ],
+    "category": "chatgpt-image",
+    "description": "Generate stunning minimalist desk setups with warm lighting and clean aesthetics. Perfect for tech blogs, portfolio sites, and social media headers.",
+    "prompt": "Professional photograph of a minimalist tech workspace, ultra-wide monitor with code editor open, mechanical keyboard with RGB backlight, warm desk lamp, small succulent plant, morning sunlight through window, 4K resolution, shallow depth of field, warm color grading, Wes Anderson symmetry, cozy productivity vibes"
+  },
+  {
+    "title": "Abstract Data Visualization Art",
+    "price": 3.99,
+    "tags": [
+      "abstract",
+      "graphics",
+      "patterns"
+    ],
+    "category": "chatgpt-image",
+    "description": "Create beautiful abstract art that looks like data visualizations. Network graphs, heat maps, and flow diagrams — but artistic. Great for tech presentations and blog headers.",
+    "prompt": "Abstract data visualization art, network graph with glowing nodes and connecting lines, dark background with neon cyan and magenta colors, geometric patterns suggesting data flow, minimal text elements, cyberpunk aesthetic, high contrast, 16:9 aspect ratio, trending on ArtStation"
+  },
+  {
+    "title": "AI Robot Characters in Daily Life",
+    "price": 3.99,
+    "tags": [
+      "illustration",
+      "technology",
+      "cute"
+    ],
+    "category": "chatgpt-image",
+    "description": "Charming illustrations of friendly AI robots doing everyday human activities. Perfect for AI tool landing pages, blog posts, and presentations about automation.",
+    "prompt": "Cute friendly robot character reading a book in a cozy coffee shop, warm ambient lighting, autumn colors, Pixar-style 3D render, steam rising from coffee cup, robot has expressive LED eyes, bookshelves in background, soft bokeh, 4K, charming and approachable"
+  },
+  {
+    "title": "Cybersecurity Threat Visualization",
+    "price": 3.99,
+    "tags": [
+      "graphics",
+      "technology",
+      "scary"
+    ],
+    "category": "chatgpt-image",
+    "description": "Dark, dramatic visualizations of cybersecurity concepts — firewalls, encryption, threat detection. Ideal for security blog headers and presentations.",
+    "prompt": "Dark cybersecurity visualization, glowing red firewall shield deflecting green matrix-code attacks, server racks in the background with blinking lights, dramatic lighting, particles and code streams, cyberpunk aesthetic, 16:9, photorealistic render, high detail"
+  },
+  {
+    "title": "Developer Lifestyle Flat Illustrations",
+    "price": 3.99,
+    "tags": [
+      "illustration",
+      "technology",
+      "people"
+    ],
+    "category": "chatgpt-image",
+    "description": "Clean flat-design illustrations of developers coding, collaborating, and shipping. Consistent style across a series — perfect for documentation and landing pages.",
+    "prompt": "Flat vector illustration of a developer working late at night, multiple monitors with colorful code, coffee mug, cat sleeping on desk, warm desk lamp, city lights through window, modern flat design style, clean lines, muted color palette with pops of neon, 2D illustration"
+  },
+  {
+    "title": "SaaS Product Mockup Scenes",
+    "price": 3.99,
+    "tags": [
+      "graphics",
+      "product",
+      "mockups",
+      "technology"
+    ],
+    "category": "chatgpt-image",
+    "description": "Generate professional SaaS product mockups — dashboard screens on devices, analytics views, and UI cards. Ready for landing pages and pitch decks.",
+    "prompt": "Professional SaaS dashboard mockup on a MacBook Pro, clean UI with charts and data tables, white and blue color scheme, modern glassmorphism design, floating on a gradient background, soft shadows, Apple-style product photography, 4K, polished and premium"
+  },
+  {
+    "title": "Neon Cyberpunk City Scenes",
+    "price": 3.99,
+    "tags": [
+      "painting",
+      "fantasy",
+      "scary"
+    ],
+    "category": "chatgpt-image",
+    "description": "Stunning cyberpunk cityscapes with neon lights, flying vehicles, and rain-slicked streets. Popular category on PromptBase — consistent demand.",
+    "prompt": "Cyberpunk city at night, rain-slicked streets reflecting neon signs in Chinese and Japanese, flying cars with light trails, massive holographic advertisements, Blade Runner aesthetic, volumetric fog, cinematic composition, ultra-detailed, 8K, unreal engine render"
+  },
+  {
+    "title": "Minimalist Logo Design Assistant",
+    "price": 3.99,
+    "tags": [
+      "logo",
+      "graphics",
+      "design"
+    ],
+    "category": "chatgpt-image",
+    "description": "Generate clean, minimalist logo concepts for tech startups. Geometric shapes, negative space, and modern typography. Ready for trademark filing.",
+    "prompt": "Minimalist tech startup logo, geometric abstract mark, clean lines, negative space design, deep blue and electric blue color scheme, modern sans-serif typography, professional and memorable, centered on white background, vector style, scalable, no text clutter"
+  },
+  {
+    "title": "Productivity App Icon Set",
+    "price": 3.99,
+    "tags": [
+      "graphics",
+      "design",
+      "icons"
+    ],
+    "category": "chatgpt-image",
+    "description": "Consistent set of app icons for productivity tools — calendar, tasks, notes, focus timer, habit tracker. All in the same modern style.",
+    "prompt": "Set of 6 productivity app icons in a consistent modern glassmorphism style: calendar, checklist, notebook, timer, graph, and folder. Vibrant gradient backgrounds, white glyph icons, rounded corners, iOS-style, minimal and clean, arranged in a 2x3 grid, 4K"
+  },
+  {
+    "title": "Tech Conference Stage Design",
+    "price": 3.99,
+    "tags": [
+      "graphics",
+      "design",
+      "technology"
+    ],
+    "category": "chatgpt-image",
+    "description": "Generate stunning conference stage designs with massive LED screens, dramatic lighting, and futuristic tech aesthetics. Used by event planners and tech companies.",
+    "prompt": "Massive tech conference stage design, curved LED screen wall displaying abstract data animations, dramatic purple and blue stage lighting, minimalist podium, audience silhouettes, fog effects, Apple-style keynote aesthetic, ultra-wide 21:9, photorealistic, epic scale"
+  }
+]
