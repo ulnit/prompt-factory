@@ -38,4 +38,4 @@ A curated collection of 23 high-quality AI prompts across 5 categories. Each pro
 | [🔌 AI API Gateway](https://github.com/ulnit/ai-api-gateway) | White-label AI model access reselling | $9/mo |
 | [🎬 AI Video Factory](https://github.com/ulnit/ai-video-factory) | Fully automated video content pipeline | $9/mo |
 
-> 🏪 [View All 19 Products →](https://ulnit.github.io/agent-store)
+> 🏪 [View All 23 Products →](https://ulnit.github.io/agent-store)
