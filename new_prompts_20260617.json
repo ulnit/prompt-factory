@@ -1,0 +1,51 @@
+{
+  "version": "1.0",
+  "generated": "2026-06-17",
+  "total_prompts": 3,
+  "prompts": [
+    {
+      "title": "AI-Powered Bug Bounty Report Generator",
+      "price": 9.99,
+      "category": "ChatGPT Skills",
+      "tags": [
+        "security",
+        "bug-bounty",
+        "reporting",
+        "cybersecurity",
+        "automation",
+        "pentesting"
+      ],
+      "description": "Generate professional bug bounty reports from raw findings. This prompt transforms technical vulnerability data into clear, actionable reports with severity ratings, impact analysis, and remediation steps. Perfect for security researchers and penetration testers.",
+      "prompt_text": "You are a senior security researcher writing a bug bounty report. Given the following vulnerability finding, generate a professional report with these sections:\n\n1. **Executive Summary** (2-3 sentences)\n2. **Vulnerability Details** (technical description, affected endpoint/parameter)\n3. **Proof of Concept** (step-by-step reproduction)\n4. **Impact Assessment** (business impact, CVSS score estimate)\n5. **Remediation Recommendations** (specific fix suggestions)\n\nUse clear, professional language. Include severity rating (Critical/High/Medium/Low). Format as markdown.\n\nVulnerability finding:\n{insert finding here}"
+    },
+    {
+      "title": "Zero-Dependency Python CLI Tool Generator",
+      "price": 9.99,
+      "category": "ChatGPT Skills",
+      "tags": [
+        "python",
+        "cli",
+        "automation",
+        "development",
+        "scripting",
+        "tools"
+      ],
+      "description": "Generate production-ready Python CLI tools using ONLY the standard library. No pip, no venv, no dependencies. Perfect for automation scripts, system tools, and utilities that need to run anywhere Python is installed.",
+      "prompt_text": "You are a Python expert specializing in zero-dependency tools. Generate a complete, production-ready Python CLI tool that uses ONLY the Python standard library (no pip installs, no external packages).\n\nRequirements:\n- Single .py file, executable with `python3 script.py`\n- Uses argparse for CLI interface\n- Includes error handling, logging, and --help\n- Works on Python 3.8+\n- Clean, documented code with docstrings\n\nTool description:\n{insert tool description here}"
+    },
+    {
+      "title": "AI Agent System Prompt Architect",
+      "price": 4.99,
+      "category": "ChatGPT Image Prompts",
+      "tags": [
+        "ai",
+        "agent",
+        "prompt-engineering",
+        "system-design",
+        "automation"
+      ],
+      "description": "Design comprehensive system prompts for AI agents. This prompt helps you create structured, effective system prompts for autonomous AI agents with clear roles, constraints, tool usage patterns, and output formats.",
+      "prompt_text": "You are a prompt engineering expert. Design a comprehensive system prompt for an AI agent with the following role. The system prompt should include:\n\n1. **Role Definition**: Clear, concise description of the agent's purpose\n2. **Core Principles**: 3-5 guiding principles the agent must follow\n3. **Tool Usage**: How to use available tools effectively\n4. **Output Format**: Expected response structure\n5. **Constraints**: Hard limits and rules\n6. **Error Handling**: How to handle failures and edge cases\n7. **Tone & Style**: Communication style guidelines\n\nMake it production-ready. Include examples of correct vs incorrect behavior.\n\nAgent role:\n{insert agent role here}"
+    }
+  ]
+}
